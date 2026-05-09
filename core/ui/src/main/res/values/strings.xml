@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Tuneora</string>
+    <string name="about_name">About</string>
+    <string name="navigate_up">Navigate up</string>
+    <string name="connect_and_support">Connect &amp; Support</string>
+    <string name="github_repository">GitHub Repository</string>
+    <string name="github_repository_desc">View source code &amp; contribute</string>
+    <string name="support_development">Support Development</string>
+    <string name="support_development_desc">Buy me a coffee</string>
+    <string name="open_source_license">Open Source License</string>
+    <string name="open_source_license_desc">GNU General Public License v3.0</string>
+    <string name="libraries">Libraries</string>
+    <string name="libraries_desc">Open source libraries used in Tuneora</string>
+    <string name="developed_by">Developed by Maheswara660</string>
+    <string name="dev_bio">Android Developer &amp; UI Enthusiast</string>
+    <string name="error_opening_link">No app found to handle this link</string>
+</resources>
